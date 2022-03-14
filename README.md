@@ -58,6 +58,7 @@ If you perform well as a Navigator and contribute to ArthSwap, we may hire you a
 | ART | The Artist - This can be infographic, animated logo, sticker packs, music, movie, NFT etc. The creativity is your limit. Bonus will be given for outstanding work which will be accepted for official use. | 10 |
 | DEV | The Developer - Development work and coding. Please reach out to us before proceeding with the task. | 10 |
 
+- Please attach the analysis of your content like impressions.
 - There is no upper limit to the number of tasks you can do, so you can do as many as you like. For example, it is OK to do the same task more than once.
 
 - Each task is assigned a specific number of points, and which points you receive depends on your evaluation.
